@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="app-icon.svg"
+   inkscape:export-filename="/Users/ispuk/Projects/fuffa/www/assets/graphics/IOS-app-icons/icons/icon@2x.png"
+   inkscape:export-xdpi="102.6"
+   inkscape:export-ydpi="102.6">
+  <defs
+     id="defs4">
+    <linearGradient
+       gradientTransform="translate(-7.0450097,-3.2876712)"
+       y2="115.00684"
+       x2="175.19283"
+       y1="115.00684"
+       x1="31.794954"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient12557"
+       xlink:href="#linearGradient4508-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4508-0">
+      <stop
+         id="stop4510-5"
+         style="stop-color:#999999;stop-opacity:0.33939394;"
+         offset="0" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6204-3">
+      <feGaussianBlur
+         stdDeviation="2.6653878"
+         id="feGaussianBlur6206-4" />
+    </filter>
+    <linearGradient
+       id="linearGradient4508-9">
+      <stop
+         id="stop4510-1"
+         style="stop-color:#c8c8c8;stop-opacity:0.26060605;"
+         offset="0" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6204-8">
+      <feGaussianBlur
+         stdDeviation="2.6653878"
+         id="feGaussianBlur6206-5" />
+    </filter>
+    <filter
+       id="filter6204"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="2.6653878"
+         id="feGaussianBlur6206" />
+    </filter>
+    <linearGradient
+       id="linearGradient4508">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop4510" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="53.423092"
+     inkscape:cy="34.881831"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1226"
+     inkscape:window-height="754"
+     inkscape:window-x="39"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-1030,-384"
+       id="guide7028" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="999.84896,968.73627"
+       id="guide3303" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="500.63159,1043.6896"
+       id="guide3305" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)">
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path9802"
+       d="m 312.90079,25.243718 c -13.18024,0 -12.75509,-32.8798538 -18.22167,-46.740324 -0.3034,-0.767192 -1.38828,-0.784584 -1.7141,-0.02431 -4.80027,11.211811 -3.44367,36.715822 -15.42847,36.715822 -12.69557,0 -9.902,-24.2846198 -18.93823,-24.2846198 h -17.99325 v -8.1163792 h 17.99325 c 12.88881,0 14.3204,15.5954352 17.68483,22.5909892 0.39152,0.815886 1.56569,0.792308 1.92435,-0.03868 4.62982,-10.718639 3.40309,-37.1749702 15.9487,-37.1749702 12.1881,0 11.21568,31.45988524 17.28597,46.04039 0.33585,0.807383 1.50965,0.74091 1.74772,-0.106301 5.79549,-20.6442128 1.70985,-69.896749 17.29679,-69.896749 14.82437,0 12.15293,38.301221 17.35861,54.2603422 0.28988,0.89087504 1.51043,0.99870304 1.95335,0.173543 4.5104,-8.406265 3.79422,-27.3792722 14.1198,-27.3792722 10.93819,0 9.58082,19.0669262 17.77876,19.0669262 h 18.14358 v 8.116389 h -18.14397 c -11.05297,0 -13.74297,-11.6446942 -16.5694,-17.1738762 -0.38495,-0.754831 -1.48878,-0.691446 -1.78369,0.104719 -3.27785,8.8255902 -3.94725,27.2467002 -15.49763,27.2467002 -13.31437,0 -9.31994,-39.2013712 -16.22582,-54.2982412 -0.36061,-0.78882 -1.49612,-0.76332 -1.81884,0.0444 -7.43075,18.591925 -2.08282,70.873418 -16.90064,70.873418 z"
+       inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+       inkscape:export-xdpi="64"
+       inkscape:export-ydpi="64" />
+    <g
+       id="g3034">
+      <polygon
+         points="50,279.561 256,460.14 462,279.561 462,127.599 353.661,51.86 256,113.599 158.339,51.86 50,127.599 "
+         id="polygon10778"
+         transform="matrix(0.03043729,0,0,0.03304469,29.963998,968.86306)"
+         style="fill:#ff006a;fill-opacity:1"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         inkscape:export-xdpi="64"
+         inkscape:export-ydpi="64" />
+      <polygon
+         inkscape:export-ydpi="64"
+         inkscape:export-xdpi="64"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         style="fill:#0073ff;fill-opacity:1"
+         transform="matrix(0.03043729,0,0,0.03304469,30.718277,990.78493)"
+         id="polygon10879"
+         points="462,127.599 353.661,51.86 256,113.599 158.339,51.86 50,127.599 50,279.561 256,460.14 462,279.561 " />
+      <path
+         inkscape:export-ydpi="64"
+         inkscape:export-xdpi="64"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         style="fill:#0092ff;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0"
+         id="speech-bubble-4-icon"
+         d="M 36.433377,957.42241 C 17.968589,957.42241 3,970.82691 3,987.36218 c 0,7.00677 2.596765,13.45672 6.762307,18.06702 l -4.706645,16.4824 19.016123,-6.6246 c 26.45326,7.6156 45.794971,-9.5293 45.794971,-27.92482 0,-16.53527 -14.968591,-29.93977 -33.43338,-29.93977 z" />
+      <path
+         inkscape:export-ydpi="64"
+         inkscape:export-xdpi="64"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         d="m 33.054877,998.0549 c -4.185492,0 -4.050484,-11.33577 -5.786423,-16.1143 -0.09636,-0.26446 -0.440871,-0.27044 -0.54434,-0.009 -1.52435,3.86536 -1.093549,12.6581 -4.899402,12.6581 -4.031568,0 -3.144444,-8.3723 -6.01398,-8.3723 h -5.713879 v -2.7983 h 5.713879 c 4.092937,0 4.54756,5.37671 5.61596,7.78857 0.124324,0.28123 0.497187,0.27308 0.611083,-0.0132 1.470225,-3.69532 1.080684,-12.81642 5.064622,-12.81642 3.87041,0 3.56159,10.84612 5.48926,15.87289 0.10666,0.27835 0.47942,0.25537 0.55502,-0.0365 1.84037,-7.11734 0.54296,-24.09759 5.4927,-24.09759 4.70758,0 3.85925,13.20472 5.51235,18.70683 0.0921,0.30708 0.47966,0.34427 0.62031,0.0598 1.4323,-2.89822 1.20487,-9.43936 4.48385,-9.43936 3.47348,0 3.04245,6.57351 5.64577,6.57351 h 5.7616 v 2.79822 h -5.76173 c -3.50994,0 -4.36417,-4.01459 -5.26173,-5.92083 -0.12226,-0.26027 -0.47278,-0.23837 -0.56642,0.0357 -1.04092,3.04265 -1.253481,9.39356 -4.9214,9.39356 -4.22805,0 -2.95959,-13.51507 -5.1526,-18.71987 -0.11453,-0.27199 -0.47512,-0.26322 -0.57759,0.0155 -2.3597,6.40976 -0.66142,24.43439 -5.36691,24.43439 z"
+         id="path9883"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         d="m 63.353386,979.34429 c 18.464799,0 33.433369,13.4045 33.433369,29.93971 0,7.0068 -2.596759,13.4566 -6.762299,18.0671 l 4.706639,16.4824 -19.01612,-6.6246 c -26.45328,7.6156 -45.79497,-9.5294 -45.79497,-27.9249 0,-16.53521 14.96858,-29.93971 33.43338,-29.93971 z"
+         id="path10944"
+         inkscape:connector-curvature="0"
+         style="opacity:0.8037037;fill:#ff006a;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         inkscape:export-xdpi="64"
+         inkscape:export-ydpi="64" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path10946"
+         d="m 61.414627,1022.4685 c -4.196891,0 -4.06152,-11.3665 -5.8022,-16.1582 -0.0966,-0.2652 -0.44207,-0.2711 -0.54582,-0.01 -1.5285,3.8759 -1.09653,12.6927 -4.91277,12.6927 -4.04255,0 -3.153,-8.3953 -6.03038,-8.3953 h -5.72945 v -2.8058 h 5.72945 c 4.10411,0 4.55997,5.3914 5.63129,7.8097 0.12465,0.282 0.49853,0.2739 0.61274,-0.013 1.47424,-3.7054 1.08363,-12.8513 5.07844,-12.8513 3.88097,0 3.57131,10.8756 5.50423,15.9161 0.10694,0.2792 0.48072,0.2562 0.55653,-0.036 1.84541,-7.1366 0.54445,-24.16315 5.50768,-24.16315 4.72041,0 3.86978,13.24065 5.52738,18.75775 0.0923,0.3079 0.48097,0.3452 0.62201,0.06 1.43621,-2.906 1.20814,-9.465 4.49607,-9.465 3.48294,0 3.05074,6.5914 5.66116,6.5914 h 5.77733 v 2.8059 h -5.77746 c -3.51951,0 -4.37607,-4.0256 -5.27606,-5.937 -0.12261,-0.261 -0.474091,-0.2391 -0.56799,0.036 -1.04375,3.051 -1.25688,9.4192 -4.9348,9.4192 -4.23958,0 -2.96767,-13.552 -5.16666,-18.7709 -0.11484,-0.2727 -0.47642,-0.2639 -0.57916,0.015 -2.36613,6.4273 -0.66323,24.501 -5.38156,24.501 z"
+         inkscape:export-filename="/Users/ispuk/Projects/emotio-site/assets/img/logo.png"
+         inkscape:export-xdpi="64"
+         inkscape:export-ydpi="64" />
+    </g>
+  </g>
+</svg>
