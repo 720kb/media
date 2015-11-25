@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="311.99953"
-     inkscape:cy="-37.927549"
+     inkscape:cx="360.38821"
+     inkscape:cy="121.60019"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
        orientation="0,1"
        id="guide4155" />
     <sodipodi:guide
-       position="388.21429,170.71429"
+       position="-35.714286,152.85714"
        orientation="0,1"
        id="guide4312" />
     <sodipodi:guide
@@ -82,17 +82,37 @@
        orientation="0,1"
        id="guide4457" />
     <sodipodi:guide
-       position="297.14286,329.64286"
-       orientation="1,0"
-       id="guide4175" />
-    <sodipodi:guide
        position="369.71583,-62.629458"
        orientation="0,1"
        id="guide4293" />
     <sodipodi:guide
-       position="336.3808,41.416254"
+       position="241.42646,-31.062191"
+       orientation="0,1"
+       id="guide3539" />
+    <sodipodi:guide
+       position="509.28572,-130.71429"
+       orientation="0,1"
+       id="guide3541" />
+    <sodipodi:guide
+       position="342.85714,222.85714"
+       orientation="0,1"
+       id="guide4108" />
+    <sodipodi:guide
+       position="321.69643,129.28572"
        orientation="1,0"
-       id="guide4295" />
+       id="guide4152" />
+    <sodipodi:guide
+       position="341.60714,132.67857"
+       orientation="1,0"
+       id="guide4154" />
+    <sodipodi:guide
+       position="-64.285714,42.857143"
+       orientation="0,1"
+       id="guide3380" />
+    <sodipodi:guide
+       position="-44.285714,98.571429"
+       orientation="0,1"
+       id="guide3512" />
   </sodipodi:namedview>
   <metadata
      id="metadata3073">
@@ -138,60 +158,91 @@
          y="980.1142"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:1.92368102px;fill:#000000"
          dx="0" /></text>
-    <path
-       style="opacity:1;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.22058824"
-       d="m 48.593424,910.41627 c -12.478174,0 -22.523835,9.62117 -22.523835,21.57163 l 0,60.75014 c 0,11.95056 10.045661,21.57006 22.523835,21.57006 l 58.845676,0 c 12.47818,0 22.52383,-9.6195 22.52383,-21.57006 l 0,-60.75014 c 0,-11.95046 -10.04565,-21.57163 -22.52383,-21.57163 z m 11.152427,21.34635 43.936259,0 -2.29794,10.78444 c -3.53619,2.94676 -6.925569,6.45429 -10.167055,10.5209 -3.182535,4.00768 -6.099234,8.27954 -8.751326,12.8177 -2.652154,4.53815 -4.980479,9.19473 -6.984301,13.96847 -2.003832,4.77373 -3.565252,9.37013 -4.685015,13.7903 l -13.349823,0 c 1.060845,-4.24329 2.622286,-8.69244 4.685058,-13.3484 2.062698,-4.65594 4.421269,-9.19452 7.07336,-13.61468 2.711063,-4.47908 5.657935,-8.72233 8.840439,-12.7298 3.182577,-4.00768 6.393448,-7.51394 9.634965,-10.51963 l -30.410766,0 z"
-       id="rect4156"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/45kb/Projects/chatting/www/img/logo-and-text-x-blue.png"
-       inkscape:export-xdpi="47.645714"
-       inkscape:export-ydpi="47.645714"
-       sodipodi:nodetypes="sssssssssccccssccscsccc" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#006eff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.60242939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 190.19154,910.73268 a 4.7596402,4.7596402 0 0 0 -2.86575,1.0669 l -51.91103,42.29645 a 4.7596402,4.7596402 0 0 0 -1.75305,3.68959 l 0,6.90416 a 4.7596402,4.7596402 0 0 0 1.66016,3.61157 l 51.91099,44.54615 a 4.7596402,4.7596402 0 0 0 7.85762,-3.6119 l 0,-93.74658 a 4.7596402,4.7596402 0 0 0 -4.89894,-4.75634 z"
-       id="path4172"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/Users/45kb/Projects/chatting/www/img/logo-and-text-x-blue.png"
-       inkscape:export-xdpi="47.645714"
-       inkscape:export-ydpi="47.645714" />
     <g
-       id="g4297"
-       transform="matrix(1.0923385,0,0,1.0923385,-33.806497,-276.44939)"
-       style="fill:#000000"
-       inkscape:export-filename="/Users/45kb/Projects/chatting/www/img/logo-and-text-x-blue.png"
-       inkscape:export-xdpi="47.645714"
-       inkscape:export-ydpi="47.645714">
+       id="g4365"
+       inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-square.png"
+       inkscape:export-xdpi="48.647255"
+       inkscape:export-ydpi="48.647255">
       <path
-         d="m 274.67861,1093.292 c -12.61045,0 -25.50534,9.5768 -25.50534,24.6262 0,8.4042 5.49929,15.9288 14.88601,20.7173 9.29191,4.7884 17.63567,7.4269 17.63567,13.2903 0,7.5247 -7.3956,7.9155 -11.28304,7.9155 -8.72301,0 -19.1527,-9.0882 -19.1527,-9.0882 l -8.91265,15.4402 c 0,0 11.0934,10.6518 29.39277,10.6518 15.26528,0 29.48759,-6.7428 29.48759,-25.9943 0,-10.5541 -9.57636,-18.1765 -18.29937,-21.9876 -8.91265,-3.909 -16.30825,-7.1338 -16.30825,-11.6291 0,-4.3975 3.22372,-7.2315 9.29191,-7.2315 8.05931,0 15.83417,5.5702 15.83417,5.5702 l 7.20597,-14.6584 c 0,0 -10.05043,-7.6224 -24.27274,-7.6224 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:-0.00415549px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path4254"
+         sodipodi:nodetypes="sssssssssccccssccscsccc"
+         inkscape:export-ydpi="43.888855"
+         inkscape:export-xdpi="43.888855"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         inkscape:connector-curvature="0"
+         id="rect4156"
+         d="m 20.437851,901.61432 c -12.9519808,0 -23.3790754,9.98649 -23.3790754,22.39071 l 0,63.05684 c 0,12.4044 10.4270946,22.38913 23.3790754,22.38913 l 61.080047,0 c 12.951983,0 23.379062,-9.98473 23.379062,-22.38913 l 0,-63.05684 c 0,-12.40422 -10.427079,-22.39071 -23.379062,-22.39071 z m 11.575879,22.15688 45.604531,0 -2.385198,11.19393 c -3.670456,3.05864 -7.188528,6.69936 -10.553096,10.92037 -3.303374,4.15985 -6.330825,8.59393 -9.083615,13.30439 -2.752853,4.71046 -5.169591,9.54387 -7.249495,14.49886 -2.079917,4.95499 -3.700625,9.72592 -4.862912,14.31393 l -13.856716,0 c 1.101131,-4.40442 2.721859,-9.0225 4.862953,-13.85524 2.141021,-4.83274 4.589147,-9.54365 7.341936,-14.13164 2.814001,-4.64915 5.872764,-9.05352 9.176113,-13.21316 3.303425,-4.15985 6.636212,-7.79924 10.000803,-10.91906 l -31.565463,0 z"
+         style="opacity:1;fill:#006eff;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="43.888855"
+         inkscape:export-xdpi="43.888855"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         inkscape:connector-curvature="0"
+         id="path4172"
+         d="m 167.41247,901.94274 a 4.9403648,4.9403648 0 0 0 -2.97456,1.10741 l -53.88211,43.90246 a 4.9403648,4.9403648 0 0 0 -1.81961,3.82968 l 0,7.16631 a 4.9403648,4.9403648 0 0 0 1.72319,3.7487 l 53.88206,46.2377 a 4.9403648,4.9403648 0 0 0 8.15599,-3.7491 l 0,-97.3062 a 4.9403648,4.9403648 0 0 0 -5.08496,-4.93696 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#006eff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.14602429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       id="g4352"
+       transform="translate(-26,-6)"
+       inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-square.png"
+       inkscape:export-xdpi="48.647255"
+       inkscape:export-ydpi="48.647255">
+      <path
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         d="m 219.20258,993.21125 c 7.88384,6.63245 19.70959,11.05405 29.41282,11.05405 21.22573,0 32.44504,-11.3699 32.44504,-26.21393 0,-14.21238 -10.30964,-20.21316 -19.40637,-23.68733 -7.58064,-2.84248 -14.25159,-4.42162 -14.25159,-8.52742 0,-3.1583 2.27418,-4.42165 6.67095,-4.42165 4.69999,0 10.00645,2.52667 15.46448,6.63247 l 11.52253,-16.10738 c -6.67094,-5.21121 -15.46445,-10.42241 -27.89666,-10.42241 -17.89029,0 -30.01927,10.10656 -30.01927,25.58227 0,12.9491 10.30963,19.73945 19.10317,23.37151 7.5806,3.15831 14.55479,5.0533 14.55479,9.1591 0,3.15831 -2.1226,4.73744 -7.58062,4.73744 -5.30646,0 -11.52256,-2.52661 -18.49672,-7.89573 l -11.52255,16.73901 z"
+         style="font-style:normal;font-weight:normal;font-size:136.62214661px;line-height:125%;font-family:sans-serif;letter-spacing:-2.13999987px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27261841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4129"
          inkscape:connector-curvature="0" />
       <path
-         d="m 309.54896,1175.3793 16.78232,0 0,-84.0418 -16.78232,0 0,84.0418 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:-0.00415549px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path4256"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4258"
-         d="m 337.87262,1125.2474 16.78232,0 0,50.1319 -16.78232,0 0,-50.1319 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:-0.00415549px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 413.59508,1125.2474 -48.26104,0 0,13.1926 20.10087,0 -24.08311,36.9393 50.34697,0 0,-13.1926 -22.1868,0 24.08311,-36.9393 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:-0.00415549px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path4260"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 468.91446,1152.7076 c 0.0948,-0.5864 0.0948,-1.6613 0.0948,-2.3454 0,-17.5901 -11.28303,-26.5806 -26.07423,-26.5806 -14.69639,0 -26.73794,11.9222 -26.73794,26.5806 0,14.5607 12.04155,26.4829 26.73794,26.4829 10.80895,0 19.7216,-3.6157 25.22089,-13.0948 l -12.13637,-6.2543 c -4.07706,4.4952 -6.44744,5.5702 -11.85192,5.5702 -4.26669,0 -10.52451,-2.6385 -10.52451,-10.3586 l 35.27133,0 z m -34.79725,-9.5769 c 0.28444,-4.593 3.50817,-8.111 9.29191,-8.111 4.9304,0 8.43857,2.834 9.19709,8.111 l -18.489,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:-0.00415549px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path4262"
-         inkscape:connector-curvature="0" />
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         d="m 291.61239,977.0096 c 0,16.4032 5.28255,27.534 21.40827,27.534 5.28254,0 13.50773,-0.8789 16.01001,-2.0505 l -5.23904,-18.4535 c -1.11212,0.2929 -3.54222,0.2929 -4.37629,0.2929 -1.66821,0 -3.89244,-1.4646 -3.89244,-6.4441 l 0,-77.0362 -23.91051,3.36838 z"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:-0.21999995px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27261841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4131"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccssccs" />
       <path
          inkscape:connector-curvature="0"
-         id="path4287"
-         d="m 346.89659,1094.7743 c -5.66794,0 -10.26092,4.593 -10.26092,10.2609 0,5.668 4.59298,10.2609 10.26092,10.2609 5.66793,0 10.26091,-4.5929 10.26091,-10.2609 0,-5.6679 -4.59298,-10.2609 -10.26091,-10.2609 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0.40932021px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         id="path4133"
+         d="m 337.63237,1004.2658 25.47805,0 0,-77.52832 -25.47805,0 0,77.52832 z"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:-2.13999987px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27261841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         d="m 373.15648,1004.2352 63.47413,0 0,-20.6988 -30.34374,0 29.41483,-42.32447 0,-14.21114 -59.13927,0 0,20.69884 26.00888,0 -29.41483,42.32446 0,14.21111 z"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:-5.46999884px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27261841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4135"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         id="text3387"
+         style="font-style:normal;font-weight:normal;font-size:117.05052948px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15748119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.1385734,0,0,1.2238282,-55.145281,-143.14955)">
+        <path
+           sodipodi:nodetypes="cssssccscccscc"
+           inkscape:connector-curvature="0"
+           id="path4142"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke:none;stroke-width:1.15748119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 500.82324,909.60288 c 0.11621,-0.69729 0.11621,-2.83509 0.11621,-3.6486 0,-20.91875 -13.82963,-31.61056 -31.95922,-31.61056 -18.01337,0 -32.77272,14.17826 -32.77272,31.61056 0,17.31609 14.75935,31.49435 32.77272,31.49435 13.24855,0 24.17279,-4.29996 30.91328,-15.57285 L 485.01794,914.438 c -4.99725,5.3459 -7.90263,6.62427 -14.52691,6.62427 -5.22969,0 -12.8999,-1.84866 -12.8999,-11.02968 z m -40.6914,-10.7537 c 0.34865,-5.46211 3.64909,-9.81489 10.73589,-9.64586 6.3698,0.15192 9.03674,3.37023 9.96647,9.64586 z" />
+      </g>
+      <circle
+         r="14.136601"
+         inkscape:export-ydpi="44.549332"
+         inkscape:export-xdpi="44.549332"
+         inkscape:export-filename="/Users/a45kb/Projects/slize/www/img/logo-and-text-x-blue.png"
+         cy="904.47583"
+         cx="350.24103"
+         id="path4150"
+         style="fill:#000000;stroke:none;stroke-width:1.27261841;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
