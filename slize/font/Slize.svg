@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg>
 <metadata>
-Created by FontForge 20090914 at Wed Feb 10 15:37:34 2016
+Created by FontForge 20090914 at Tue Feb 16 10:34:44 2016
  By www-data
-Straight l
+Slashed zero
 </metadata>
 <defs>
 <font id="Slize" horiz-adv-x="0" >
@@ -20,7 +20,7 @@ Straight l
     cap-height="650"
     bbox="-458 -326 2156 1024"
     underline-thickness="50"
-    underline-position="-100"
+    underline-position="-150"
     unicode-range="U+0020-U+1F16B"
   />
 <missing-glyph horiz-adv-x="704" 
@@ -241,7 +241,7 @@ c-37.333 0 -68.667 4.66699 -94 14l30 126c14 -4 26 -6 36 -6c18 0 30.833 5.66699 3
     <glyph glyph-name="k" unicode="k" horiz-adv-x="568" 
 d="M58 0v696h168v-370h4l138 174h186l-178 -208l188 -292h-186l-100 178l-52 -58v-120h-168z" />
     <glyph glyph-name="l" unicode="l" horiz-adv-x="298" 
-d="M201 -12c-102.667 0 -154 62.667 -154 188l1 442l171 23v-471c0 -15.333 2.83301 -26.5 8.5 -33.5s12.167 -10.5 19.5 -10.5c6.66699 0 12.667 0.666992 18 2l20 -126c-20.667 -9.33301 -48.667 -14 -84 -14z" />
+d="M201 -12c-103.333 0 -154.667 62.667 -154 188l1 366l171 46v-418c0 -15.333 2.83301 -26.5 8.5 -33.5s12.167 -10.5 19.5 -10.5c6.66699 0 12.667 0.666992 18 2l20 -126c-20.667 -9.33301 -48.667 -14 -84 -14z" />
     <glyph glyph-name="m" unicode="m" horiz-adv-x="868" 
 d="M58 0l-0.00488281 500h140l12 -61h4c24 23.333 47.333 41.333 70 54s49.334 19 80.001 19c64 0 110 -26.667 138 -80c24.667 25.333 48.834 45 72.501 59s50.834 21 81.501 21c53.333 0 93 -18 119 -54s39 -86 39 -150v-308h-172v286c0 30.667 -3.83301 51.667 -11.5 63
 s-20.5 17 -38.5 17c-21.333 0 -44.666 -12.667 -69.999 -38v-328h-172v286c0 30.667 -3.83301 51.667 -11.5 63s-20.5 17 -38.5 17c-21.333 0 -44.666 -12.667 -69.999 -38v-328h-172z" />
@@ -7149,18 +7149,6 @@ c17.333 2 26 6.66699 26 14c0 10 -21.333 16.667 -64 20l16 66c58.667 -2 99.667 -8.
     <hkern g1="uni1FEF.cap"
 	g2="I.a,Igrave.a,Iacute.a,Icircumflex.a,Itilde.a,Idieresis.a,Imacron.a,Idotaccent.a,uni01CF.a,uni1EC8.a,uni1ECA.a,Iogonek.a,uni012C.a"
 	k="-20" />
-    <hkern g1="uni0431.srb"
-	g2="chi"
-	k="20" />
-    <hkern g1="uni0431.srb"
-	g2="gamma"
-	k="20" />
-    <hkern g1="uni0431.srb"
-	g2="nu"
-	k="20" />
-    <hkern g1="uni0431.srb"
-	g2="tau"
-	k="10" />
     <hkern g1="uni041A.a"
 	g2="uni0431"
 	k="10" />
